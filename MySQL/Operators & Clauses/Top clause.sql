@@ -1,0 +1,6 @@
+SELECT * FROM STUDENT
+limit 3;
+
+-- or
+
+SELECT  TOP 3 * FROM STUDENT;
